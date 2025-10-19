@@ -1,5 +1,3 @@
-![2 2](https://github.com/user-attachments/assets/9a327709-a2ee-46f4-85e6-941722fa7b28)# Functions in Python: Modulo Calculator
-
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
 
