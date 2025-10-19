@@ -29,7 +29,7 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 ## 🧪 Program
 ```
 import math
-n=7
+n=int(input())
 for i in range(n):
     for s in range(n-i-1):
         print(" ",end="")
